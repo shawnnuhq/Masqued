@@ -24,7 +24,7 @@
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/shawnn/masqued.git](https://github.com/shawnn/masqued.git)
+    git clone https://github.com/shawnnuhq/Masqued.git
     cd masqued
     ```
 2.  **Install dependencies**:
